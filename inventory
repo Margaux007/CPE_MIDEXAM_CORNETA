@@ -1,0 +1,28 @@
+[update]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[elastic]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[kibana]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[logstash]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[Nagios]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[grafana]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[prometheus]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[influxdb]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+[lampstack]
+192.168.56.106
+192.168.56.105 ansible_python_interpreter=/usr/bin/python2
+
